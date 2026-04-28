@@ -1715,15 +1715,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_61
+      name: BaronFire3
       rect:
         serializedVersion: 2
         x: 710
         y: 367
         width: 98
         height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1737,15 +1737,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_62
+      name: BaronFire2
       rect:
         serializedVersion: 2
         x: 870
         y: 366
         width: 55
         height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1759,15 +1759,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_63
+      name: Baron Fire1
       rect:
         serializedVersion: 2
         x: 980
         y: 366
         width: 110
         height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2309,16 +2309,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_88
+      name: BaronDeath1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 150
-        height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 75
+        y: 6
+        width: 72
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 72, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -2331,7 +2331,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_89
+      name: BaronDeath2
       rect:
         serializedVersion: 2
         x: 151
@@ -2353,15 +2353,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_90
+      name: BaronDeath3
       rect:
         serializedVersion: 2
         x: 227
         y: 0
         width: 72
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2397,15 +2397,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_92
+      name: BaronDeath4
       rect:
         serializedVersion: 2
         x: 312
-        y: 41
+        y: 2
         width: 58
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2529,15 +2529,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_98
+      name: BaronDeath5
       rect:
         serializedVersion: 2
-        x: 392
-        y: 38
-        width: 41
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 379
+        y: 0
+        width: 72
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3050,7 +3050,15 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      Baron Fire1: -4344516881495048546
       Baron Jump: 297092434409737415
+      BaronDeath1: 1161766516130904612
+      BaronDeath2: 959763850109581249
+      BaronDeath3: 2360601173375659307
+      BaronDeath4: -5659654540621131920
+      BaronDeath5: -6260632768260940003
+      BaronFire2: 7863323061867249094
+      BaronFire3: 3506849632106349632
       BaronIdle: 1550918302
       BaronWalk1: 1575927542198697699
       BaronWalk2: -1202591353099339284
@@ -3125,9 +3133,6 @@ TextureImporter:
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_58: 5196355260002030087
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_59: 7179492519944759039
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_60: 3916435145843569493
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_61: 3506849632106349632
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_62: 7863323061867249094
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_63: -4344516881495048546
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_64: 422743063144880002
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_65: -2693878024144798924
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_66: -3119090311868821984
@@ -3154,18 +3159,13 @@ TextureImporter:
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_85: 1295822507866395062
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_86: -5378863977850919533
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_87: -5058212917944524076
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_88: 1161766516130904612
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_89: 959763850109581249
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_9: -4373602043208269025
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_90: 2360601173375659307
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_91: -216227345432243992
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_92: -5659654540621131920
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_93: 8264596342232302914
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_94: -3927061075732647696
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_95: -3652758301140855884
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_96: 4310135850544293609
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_97: 7547897084299178017
-      MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_98: -6260632768260940003
       MS-DOS - DOOM _ DOOM II - Enemies (Legacy of Rust) - Vassago_99: 4936771364989515660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
