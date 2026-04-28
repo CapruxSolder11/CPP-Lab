@@ -1,0 +1,3640 @@
+fileFormatVersion: 2
+guid: e5cf48c5c28b4fe41a365d65bfaf06d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2327005951590748371
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_0
+  - first:
+      213: 5856718032757480913
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_1
+  - first:
+      213: 4249545309959533805
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_2
+  - first:
+      213: 3589807488985288541
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_3
+  - first:
+      213: -5723000711473948926
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_4
+  - first:
+      213: -3597405312266336300
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_5
+  - first:
+      213: -7641626498740624921
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_6
+  - first:
+      213: -7444817206732539957
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_7
+  - first:
+      213: 3262022316957014
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_8
+  - first:
+      213: 44546478362012002
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_9
+  - first:
+      213: 5725676841733515488
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_10
+  - first:
+      213: 1497818550378633621
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_11
+  - first:
+      213: -6214831405473334500
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_12
+  - first:
+      213: -716936205985540529
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_13
+  - first:
+      213: 8806743642892766867
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_14
+  - first:
+      213: -5715175871050640691
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_15
+  - first:
+      213: -831126845596964109
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_16
+  - first:
+      213: -6959062393469816842
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_17
+  - first:
+      213: 7553386972751859438
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_18
+  - first:
+      213: -3184559872259098784
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_19
+  - first:
+      213: -7477556053069909536
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_20
+  - first:
+      213: 1785245762333478839
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_21
+  - first:
+      213: 5964184228706165878
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_22
+  - first:
+      213: 415810480856440218
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_23
+  - first:
+      213: 5773182195916357235
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_24
+  - first:
+      213: -2076582065876337489
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_25
+  - first:
+      213: 6659086593538496897
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_26
+  - first:
+      213: -4634527009054119025
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_27
+  - first:
+      213: -7210792591403570647
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_28
+  - first:
+      213: -9104460915234463468
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_29
+  - first:
+      213: -2790257387090260438
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_30
+  - first:
+      213: -8066958157497934325
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_31
+  - first:
+      213: -5493183563778657086
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_32
+  - first:
+      213: -7619957772328191333
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_33
+  - first:
+      213: 2578225741476054642
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_34
+  - first:
+      213: -4054781496938179631
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_35
+  - first:
+      213: 9046029599898478278
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_36
+  - first:
+      213: -2927510781934607791
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_37
+  - first:
+      213: -5266255600019895573
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_38
+  - first:
+      213: -6942602709219578304
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_39
+  - first:
+      213: -9222155246040627095
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_40
+  - first:
+      213: -6396288885806050795
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_41
+  - first:
+      213: 6793657669465347110
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_42
+  - first:
+      213: 508222946303585661
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_43
+  - first:
+      213: -4629014911027127050
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_44
+  - first:
+      213: -520285209035175863
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_45
+  - first:
+      213: -6633242274190259390
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_46
+  - first:
+      213: 635764930100290162
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_47
+  - first:
+      213: -8904637030816090095
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_48
+  - first:
+      213: 6085069532046319417
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_49
+  - first:
+      213: -512195412371759199
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_50
+  - first:
+      213: -8021727702878108316
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_51
+  - first:
+      213: -3266952625458488006
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_52
+  - first:
+      213: 6888664172193921550
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_53
+  - first:
+      213: -5948804865949281147
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_54
+  - first:
+      213: -5541147802308342593
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_55
+  - first:
+      213: -1592286081837752889
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_56
+  - first:
+      213: -1703236081468806025
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_57
+  - first:
+      213: -4226590218089572213
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_58
+  - first:
+      213: -1850408123527082882
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_59
+  - first:
+      213: -5696028150717368627
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_60
+  - first:
+      213: -4909324052425751597
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_61
+  - first:
+      213: -6656579131719241818
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_62
+  - first:
+      213: 1907682154035960179
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_63
+  - first:
+      213: -2709917891220766496
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_64
+  - first:
+      213: -942627774509131008
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_65
+  - first:
+      213: 5755394081384274442
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_66
+  - first:
+      213: -7354314723879093590
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_67
+  - first:
+      213: 9061894772859396736
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_68
+  - first:
+      213: 129095204192630691
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_69
+  - first:
+      213: 6530823920907373062
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_70
+  - first:
+      213: -2733415637810875487
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_71
+  - first:
+      213: -2405982385878320532
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_72
+  - first:
+      213: -555577632294525295
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_73
+  - first:
+      213: -6860398406335498527
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_74
+  - first:
+      213: 1684066917682205488
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_75
+  - first:
+      213: 4459677231866913144
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_76
+  - first:
+      213: 8202389918620373185
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_77
+  - first:
+      213: 2590337204167593841
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_78
+  - first:
+      213: 4838876172525433181
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_79
+  - first:
+      213: -2375067575963071705
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_80
+  - first:
+      213: -1182121257231171828
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_81
+  - first:
+      213: -6239970148933707874
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_82
+  - first:
+      213: -7137912200111916210
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_83
+  - first:
+      213: -4341406821529398762
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_84
+  - first:
+      213: -8911698260603551295
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_85
+  - first:
+      213: -2084839365080869830
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_86
+  - first:
+      213: 1184706142970008923
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_87
+  - first:
+      213: 2611358715111319640
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_88
+  - first:
+      213: 6894779692250900405
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_89
+  - first:
+      213: 4831718796985161655
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_90
+  - first:
+      213: -5496692419127390212
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_91
+  - first:
+      213: 6729966851208386459
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_92
+  - first:
+      213: 5094083955849403110
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_93
+  - first:
+      213: -2977725440286974416
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_94
+  - first:
+      213: 1929925680377232039
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_95
+  - first:
+      213: -2506609184479982366
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_96
+  - first:
+      213: 8352037348116557674
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_97
+  - first:
+      213: 8119978552712774357
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_98
+  - first:
+      213: -8254502149114951866
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_99
+  - first:
+      213: 4767511102077873599
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_100
+  - first:
+      213: 7846792912867142850
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_101
+  - first:
+      213: -770914981691273417
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_102
+  - first:
+      213: -3950275104525882026
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_103
+  - first:
+      213: 9163939296544495045
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_104
+  - first:
+      213: -851356922550612432
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_105
+  - first:
+      213: -4980129611300870251
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_106
+  - first:
+      213: 2146111545817531504
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_107
+  - first:
+      213: -392321352978838609
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_108
+  - first:
+      213: -2281579457815069233
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_109
+  - first:
+      213: -1661864632143353421
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_110
+  - first:
+      213: 5381635452952264391
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_111
+  - first:
+      213: 7399062273378487180
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_112
+  - first:
+      213: -1211804363311109215
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_113
+  - first:
+      213: -4967408183205904063
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_114
+  - first:
+      213: 1524744253629094710
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_115
+  - first:
+      213: 5377944326898449484
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_116
+  - first:
+      213: -4095279640747025042
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_117
+  - first:
+      213: 6678730459267412233
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_118
+  - first:
+      213: 714578155659602455
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_119
+  - first:
+      213: -1885167974417279330
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_120
+  - first:
+      213: -4021380338872956769
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_121
+  - first:
+      213: -232310008869363176
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_122
+  - first:
+      213: 1460588341895792519
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_123
+  - first:
+      213: 6766601804625260099
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_124
+  - first:
+      213: -7219968011844550231
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_125
+  - first:
+      213: 6388795902409952636
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_126
+  - first:
+      213: -3539704261367758756
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_127
+  - first:
+      213: -98414930470843574
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_128
+  - first:
+      213: 7339432302133283466
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_129
+  - first:
+      213: 5611803869595748919
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_130
+  - first:
+      213: -8869851685627796471
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_131
+  - first:
+      213: 1580758000807576269
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_132
+  - first:
+      213: -2398259394974695480
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_133
+  - first:
+      213: 4628909454166463400
+    second: Mobile - DOOM II RPG - Monsters - Cacodemons_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d059ce759f2b4020800000000000000
+      internalID: 2327005951590748371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5224450e374150800000000000000
+      internalID: 5856718032757480913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b011c1fa69fa30800000000000000
+      internalID: 4249545309959533805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f410144ee81d130800000000000000
+      internalID: 3589807488985288541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079947bc21d390b0800000000000000
+      internalID: -5723000711473948926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70349ade2731ec0800000000000000
+      internalID: -3597405312266336300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_6
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1171
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16a5cbf2d73f590800000000000000
+      internalID: -7641626498740624921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1076
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7bdfed132bea890800000000000000
+      internalID: -7444817206732539957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1076
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9371cac69b0000800000000000000
+      internalID: 3262022316957014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1076
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26923ca39c24e9000800000000000000
+      internalID: 44546478362012002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1076
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8e43a60c0b57f40800000000000000
+      internalID: 5725676841733515488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1076
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991f49290259c410800000000000000
+      internalID: 1497818550378633621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1076
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf1d9a3cb70c9a0800000000000000
+      internalID: -6214831405473334500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 999
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469d93b15eec06f0800000000000000
+      internalID: -716936205985540529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 995
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e8d8edea6d73a70800000000000000
+      internalID: 8806743642892766867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 995
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2942953dd9fa0b0800000000000000
+      internalID: -5715175871050640691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_16
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 991
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae6e4998e3774f0800000000000000
+      internalID: -831126845596964109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 991
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa373bf917c6f90800000000000000
+      internalID: -6959062393469816842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_18
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 991
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee00f1ae6503d860800000000000000
+      internalID: 7553386972751859438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06778003bab2ec3d0800000000000000
+      internalID: -3184559872259098784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e132b433626a3890800000000000000
+      internalID: -7477556053069909536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf88acef8776c810800000000000000
+      internalID: 1785245762333478839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a407d4f905c250800000000000000
+      internalID: 5964184228706165878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d1555ed6145c500800000000000000
+      internalID: 415810480856440218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_24
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e343b9e967e1050800000000000000
+      internalID: 5773182195916357235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 819
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7e700d9f7e23e0800000000000000
+      internalID: -2076582065876337489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 716
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1899d68b9f3d96c50800000000000000
+      internalID: 6659086593538496897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b20637d3adeafb0800000000000000
+      internalID: -4634527009054119025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a2f50b75e1eeb90800000000000000
+      internalID: -7210792591403570647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 716
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411a50cf80576a180800000000000000
+      internalID: -9104460915234463468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 716
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e439a90b30749d0800000000000000
+      internalID: -2790257387090260438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e556cdb486c0090800000000000000
+      internalID: -8066958157497934325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 716
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c475f227aa44c3b0800000000000000
+      internalID: -5493183563778657086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 716
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab6e047c8704690800000000000000
+      internalID: -7619957772328191333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 716
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276c27fd6a2b7c320800000000000000
+      internalID: 2578225741476054642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 647
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35c2136b58ab7c0800000000000000
+      internalID: -4054781496938179631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 645
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c62e914ef3f98d70800000000000000
+      internalID: 9046029599898478278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 643
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15269a654746f57d0800000000000000
+      internalID: -2927510781934607791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 641
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea07600f608ae6b0800000000000000
+      internalID: -5266255600019895573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 643
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e6d449e9be6af90800000000000000
+      internalID: -6942602709219578304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_40
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 643
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9684e303aa2540080800000000000000
+      internalID: -9222155246040627095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51250c8b521db37a0800000000000000
+      internalID: -6396288885806050795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6241712f7abe74e50800000000000000
+      internalID: 6793657669465347110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da025b3129d0700800000000000000
+      internalID: 508222946303585661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcdd38c67f62cfb0800000000000000
+      internalID: -4629014911027127050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_45
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9488195eb5397c8f0800000000000000
+      internalID: -520285209035175863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_46
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b09c9cb4df1f3a0800000000000000
+      internalID: -6633242274190259390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_47
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 471
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726743e5d0b2d800800000000000000
+      internalID: 635764930100290162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 380
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118fa6c9ccf5c6480800000000000000
+      internalID: -8904637030816090095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 380
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5c23df72827450800000000000000
+      internalID: 6085069532046319417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 380
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af1ff57cf054e8f0800000000000000
+      internalID: -512195412371759199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 380
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4654a09b7291da090800000000000000
+      internalID: -8021727702878108316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 380
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d548d65e379a2d0800000000000000
+      internalID: -3266952625458488006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 380
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a34902193799f50800000000000000
+      internalID: 6888664172193921550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 380
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845af61e79917da0800000000000000
+      internalID: -5948804865949281147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc897b9e63e913b0800000000000000
+      internalID: -5541147802308342593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 295
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd134fae3017e9e0800000000000000
+      internalID: -1592286081837752889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 295
+        width: 152
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c6c6bdec3ec58e0800000000000000
+      internalID: -1703236081468806025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 291
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8851af07922855c0800000000000000
+      internalID: -4226590218089572213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_59
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 291
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ccba39d970256e0800000000000000
+      internalID: -1850408123527082882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_60
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 291
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6bdd56394a3f0b0800000000000000
+      internalID: -5696028150717368627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 241
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c1e7f8c39edbb0800000000000000
+      internalID: -4909324052425751597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 241
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afa89a3c841f93a0800000000000000
+      internalID: -6656579131719241818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 248
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3795aafcfc2797a10800000000000000
+      internalID: 1907682154035960179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08f432900746ad0800000000000000
+      internalID: -2709917891220766496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 248
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b57f8880d1be2f0800000000000000
+      internalID: -942627774509131008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 248
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9b437c644fdf40800000000000000
+      internalID: 5755394081384274442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 248
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf2c439b930f990800000000000000
+      internalID: -7354314723879093590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_68
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 248
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e040b84152cd70800000000000000
+      internalID: 9061894772859396736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 248
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7bb1c7763aac100800000000000000
+      internalID: 129095204192630691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ace4811c522aa50800000000000000
+      internalID: 6530823920907373062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 248
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f8cca5f4f01ad0800000000000000
+      internalID: -2733415637810875487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 222
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a30e974cb3c9ed0800000000000000
+      internalID: -2405982385878320532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 221
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196aee546113a48f0800000000000000
+      internalID: -555577632294525295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 219
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e677b45ff7fac0a0800000000000000
+      internalID: -6860398406335498527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_75
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 222
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335f6660f10f5710800000000000000
+      internalID: 1684066917682205488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_76
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 222
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871235260d4f3ed30800000000000000
+      internalID: 4459677231866913144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_77
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 222
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0dc904c2eb4d170800000000000000
+      internalID: 8202389918620373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_78
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 219
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f43e686f9b2f320800000000000000
+      internalID: 2590337204167593841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_79
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 215
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51fa7fcd34272340800000000000000
+      internalID: 4838876172525433181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_80
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 216
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4c219f901a0fd0800000000000000
+      internalID: -2375067575963071705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_81
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 215
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f3c4dcaf2489fe0800000000000000
+      internalID: -1182121257231171828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_82
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 213
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d3c7d53c2769a0800000000000000
+      internalID: -6239970148933707874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_83
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 216
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bf66a1caa01fc90800000000000000
+      internalID: -7137912200111916210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_84
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 217
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61258416f7930c3c0800000000000000
+      internalID: -4341406821529398762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_85
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 173
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1424fe5a9435480800000000000000
+      internalID: -8911698260603551295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 196
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349a96b4a92113e0800000000000000
+      internalID: -2084839365080869830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5553fec5fbe07010800000000000000
+      internalID: 1184706142970008923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_88
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a4537ae86d3420800000000000000
+      internalID: 2611358715111319640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b72139999d2faf50800000000000000
+      internalID: 6894779692250900405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_90
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 152
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d0e475a6bd0340800000000000000
+      internalID: 4831718796985161655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_91
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff44561e53d7b3b0800000000000000
+      internalID: -5496692419127390212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971e6cb135a56d50800000000000000
+      internalID: 6729966851208386459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_93
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 152
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea9b644e52d1b640800000000000000
+      internalID: 5094083955849403110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e1d0d1d7efca6d0800000000000000
+      internalID: -2977725440286974416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 152
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf9cd5e2978ca10800000000000000
+      internalID: 1929925680377232039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc6503a3cb63dd0800000000000000
+      internalID: -2506609184479982366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_97
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 152
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f684597b568e370800000000000000
+      internalID: 8352037348116557674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d24c32e875ffa070800000000000000
+      internalID: 8119978552712774357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470e44970e127d80800000000000000
+      internalID: -8254502149114951866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_100
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 135
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2516861a992240800000000000000
+      internalID: 4767511102077873599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_101
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 133
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccaf75849865ec60800000000000000
+      internalID: 7846792912867142850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_102
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 134
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fc34c98e82d45f0800000000000000
+      internalID: -770914981691273417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_103
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 133
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6aadc8bdcd29c0800000000000000
+      internalID: -3950275104525882026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_104
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 132
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c517c1dc3adc2f70800000000000000
+      internalID: 9163939296544495045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_105
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 135
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0d4eb36f5f24f0800000000000000
+      internalID: -851356922550612432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_106
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 132
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e10f118603eab0800000000000000
+      internalID: -4980129611300870251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_107
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 129
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07481d0941588cd10800000000000000
+      internalID: 2146111545817531504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_108
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 130
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab45eddec13e8af0800000000000000
+      internalID: -392321352978838609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_109
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 129
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdba1a42933650e0800000000000000
+      internalID: -2281579457815069233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_110
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 126
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b96f480ceedfe8e0800000000000000
+      internalID: -1661864632143353421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_111
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 128
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce3edb6ee86faa40800000000000000
+      internalID: 5381635452952264391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_112
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 130
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b08bb8fefbea660800000000000000
+      internalID: 7399062273378487180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba29b1a5ece2fe0800000000000000
+      internalID: -1211804363311109215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c4a96398301bb0800000000000000
+      internalID: -4967408183205904063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_115
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b51eaf1daf82510800000000000000
+      internalID: 1524744253629094710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfb9a2fdb42aa40800000000000000
+      internalID: 5377944326898449484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 56
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d526d4dd4aa27c0800000000000000
+      internalID: -4095279640747025042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901373f97fd9fac50800000000000000
+      internalID: 6678730459267412233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_119
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 56
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a285ceb01bae900800000000000000
+      internalID: 714578155659602455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_120
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965aee17b986d5e0800000000000000
+      internalID: -1885167974417279330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_121
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 56
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ccb253ef2138c0800000000000000
+      internalID: -4021380338872956769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_122
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 43
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e29b174ba6ccf0800000000000000
+      internalID: -232310008869363176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_123
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78786c1cb5d054410800000000000000
+      internalID: 1460588341895792519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_124
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea4358d7cc7ed50800000000000000
+      internalID: 6766601804625260099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_125
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18254a8558dcb90800000000000000
+      internalID: -7219968011844550231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_126
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dcd91260099a850800000000000000
+      internalID: 6388795902409952636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_127
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500d3b7ab170eec0800000000000000
+      internalID: -3539704261367758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_128
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 44
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bc0b4642c52aef0800000000000000
+      internalID: -98414930470843574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_129
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 39
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a8ea5fac6ead560800000000000000
+      internalID: 7339432302133283466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_130
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 40
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aca6403e121ed40800000000000000
+      internalID: 5611803869595748919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_131
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 40
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90461cbe2e4f7e480800000000000000
+      internalID: -8869851685627796471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_132
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 39
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20ef9c60bffe510800000000000000
+      internalID: 1580758000807576269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_133
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 39
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf3a4b69cba7bed0800000000000000
+      internalID: -2398259394974695480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - DOOM II RPG - Monsters - Cacodemons_134
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 39
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31a01af903d3040800000000000000
+      internalID: 4628909454166463400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - DOOM II RPG - Monsters - Cacodemons_0: 2327005951590748371
+      Mobile - DOOM II RPG - Monsters - Cacodemons_1: 5856718032757480913
+      Mobile - DOOM II RPG - Monsters - Cacodemons_10: 5725676841733515488
+      Mobile - DOOM II RPG - Monsters - Cacodemons_100: 4767511102077873599
+      Mobile - DOOM II RPG - Monsters - Cacodemons_101: 7846792912867142850
+      Mobile - DOOM II RPG - Monsters - Cacodemons_102: -770914981691273417
+      Mobile - DOOM II RPG - Monsters - Cacodemons_103: -3950275104525882026
+      Mobile - DOOM II RPG - Monsters - Cacodemons_104: 9163939296544495045
+      Mobile - DOOM II RPG - Monsters - Cacodemons_105: -851356922550612432
+      Mobile - DOOM II RPG - Monsters - Cacodemons_106: -4980129611300870251
+      Mobile - DOOM II RPG - Monsters - Cacodemons_107: 2146111545817531504
+      Mobile - DOOM II RPG - Monsters - Cacodemons_108: -392321352978838609
+      Mobile - DOOM II RPG - Monsters - Cacodemons_109: -2281579457815069233
+      Mobile - DOOM II RPG - Monsters - Cacodemons_11: 1497818550378633621
+      Mobile - DOOM II RPG - Monsters - Cacodemons_110: -1661864632143353421
+      Mobile - DOOM II RPG - Monsters - Cacodemons_111: 5381635452952264391
+      Mobile - DOOM II RPG - Monsters - Cacodemons_112: 7399062273378487180
+      Mobile - DOOM II RPG - Monsters - Cacodemons_113: -1211804363311109215
+      Mobile - DOOM II RPG - Monsters - Cacodemons_114: -4967408183205904063
+      Mobile - DOOM II RPG - Monsters - Cacodemons_115: 1524744253629094710
+      Mobile - DOOM II RPG - Monsters - Cacodemons_116: 5377944326898449484
+      Mobile - DOOM II RPG - Monsters - Cacodemons_117: -4095279640747025042
+      Mobile - DOOM II RPG - Monsters - Cacodemons_118: 6678730459267412233
+      Mobile - DOOM II RPG - Monsters - Cacodemons_119: 714578155659602455
+      Mobile - DOOM II RPG - Monsters - Cacodemons_12: -6214831405473334500
+      Mobile - DOOM II RPG - Monsters - Cacodemons_120: -1885167974417279330
+      Mobile - DOOM II RPG - Monsters - Cacodemons_121: -4021380338872956769
+      Mobile - DOOM II RPG - Monsters - Cacodemons_122: -232310008869363176
+      Mobile - DOOM II RPG - Monsters - Cacodemons_123: 1460588341895792519
+      Mobile - DOOM II RPG - Monsters - Cacodemons_124: 6766601804625260099
+      Mobile - DOOM II RPG - Monsters - Cacodemons_125: -7219968011844550231
+      Mobile - DOOM II RPG - Monsters - Cacodemons_126: 6388795902409952636
+      Mobile - DOOM II RPG - Monsters - Cacodemons_127: -3539704261367758756
+      Mobile - DOOM II RPG - Monsters - Cacodemons_128: -98414930470843574
+      Mobile - DOOM II RPG - Monsters - Cacodemons_129: 7339432302133283466
+      Mobile - DOOM II RPG - Monsters - Cacodemons_13: -716936205985540529
+      Mobile - DOOM II RPG - Monsters - Cacodemons_130: 5611803869595748919
+      Mobile - DOOM II RPG - Monsters - Cacodemons_131: -8869851685627796471
+      Mobile - DOOM II RPG - Monsters - Cacodemons_132: 1580758000807576269
+      Mobile - DOOM II RPG - Monsters - Cacodemons_133: -2398259394974695480
+      Mobile - DOOM II RPG - Monsters - Cacodemons_134: 4628909454166463400
+      Mobile - DOOM II RPG - Monsters - Cacodemons_14: 8806743642892766867
+      Mobile - DOOM II RPG - Monsters - Cacodemons_15: -5715175871050640691
+      Mobile - DOOM II RPG - Monsters - Cacodemons_16: -831126845596964109
+      Mobile - DOOM II RPG - Monsters - Cacodemons_17: -6959062393469816842
+      Mobile - DOOM II RPG - Monsters - Cacodemons_18: 7553386972751859438
+      Mobile - DOOM II RPG - Monsters - Cacodemons_19: -3184559872259098784
+      Mobile - DOOM II RPG - Monsters - Cacodemons_2: 4249545309959533805
+      Mobile - DOOM II RPG - Monsters - Cacodemons_20: -7477556053069909536
+      Mobile - DOOM II RPG - Monsters - Cacodemons_21: 1785245762333478839
+      Mobile - DOOM II RPG - Monsters - Cacodemons_22: 5964184228706165878
+      Mobile - DOOM II RPG - Monsters - Cacodemons_23: 415810480856440218
+      Mobile - DOOM II RPG - Monsters - Cacodemons_24: 5773182195916357235
+      Mobile - DOOM II RPG - Monsters - Cacodemons_25: -2076582065876337489
+      Mobile - DOOM II RPG - Monsters - Cacodemons_26: 6659086593538496897
+      Mobile - DOOM II RPG - Monsters - Cacodemons_27: -4634527009054119025
+      Mobile - DOOM II RPG - Monsters - Cacodemons_28: -7210792591403570647
+      Mobile - DOOM II RPG - Monsters - Cacodemons_29: -9104460915234463468
+      Mobile - DOOM II RPG - Monsters - Cacodemons_3: 3589807488985288541
+      Mobile - DOOM II RPG - Monsters - Cacodemons_30: -2790257387090260438
+      Mobile - DOOM II RPG - Monsters - Cacodemons_31: -8066958157497934325
+      Mobile - DOOM II RPG - Monsters - Cacodemons_32: -5493183563778657086
+      Mobile - DOOM II RPG - Monsters - Cacodemons_33: -7619957772328191333
+      Mobile - DOOM II RPG - Monsters - Cacodemons_34: 2578225741476054642
+      Mobile - DOOM II RPG - Monsters - Cacodemons_35: -4054781496938179631
+      Mobile - DOOM II RPG - Monsters - Cacodemons_36: 9046029599898478278
+      Mobile - DOOM II RPG - Monsters - Cacodemons_37: -2927510781934607791
+      Mobile - DOOM II RPG - Monsters - Cacodemons_38: -5266255600019895573
+      Mobile - DOOM II RPG - Monsters - Cacodemons_39: -6942602709219578304
+      Mobile - DOOM II RPG - Monsters - Cacodemons_4: -5723000711473948926
+      Mobile - DOOM II RPG - Monsters - Cacodemons_40: -9222155246040627095
+      Mobile - DOOM II RPG - Monsters - Cacodemons_41: -6396288885806050795
+      Mobile - DOOM II RPG - Monsters - Cacodemons_42: 6793657669465347110
+      Mobile - DOOM II RPG - Monsters - Cacodemons_43: 508222946303585661
+      Mobile - DOOM II RPG - Monsters - Cacodemons_44: -4629014911027127050
+      Mobile - DOOM II RPG - Monsters - Cacodemons_45: -520285209035175863
+      Mobile - DOOM II RPG - Monsters - Cacodemons_46: -6633242274190259390
+      Mobile - DOOM II RPG - Monsters - Cacodemons_47: 635764930100290162
+      Mobile - DOOM II RPG - Monsters - Cacodemons_48: -8904637030816090095
+      Mobile - DOOM II RPG - Monsters - Cacodemons_49: 6085069532046319417
+      Mobile - DOOM II RPG - Monsters - Cacodemons_5: -3597405312266336300
+      Mobile - DOOM II RPG - Monsters - Cacodemons_50: -512195412371759199
+      Mobile - DOOM II RPG - Monsters - Cacodemons_51: -8021727702878108316
+      Mobile - DOOM II RPG - Monsters - Cacodemons_52: -3266952625458488006
+      Mobile - DOOM II RPG - Monsters - Cacodemons_53: 6888664172193921550
+      Mobile - DOOM II RPG - Monsters - Cacodemons_54: -5948804865949281147
+      Mobile - DOOM II RPG - Monsters - Cacodemons_55: -5541147802308342593
+      Mobile - DOOM II RPG - Monsters - Cacodemons_56: -1592286081837752889
+      Mobile - DOOM II RPG - Monsters - Cacodemons_57: -1703236081468806025
+      Mobile - DOOM II RPG - Monsters - Cacodemons_58: -4226590218089572213
+      Mobile - DOOM II RPG - Monsters - Cacodemons_59: -1850408123527082882
+      Mobile - DOOM II RPG - Monsters - Cacodemons_6: -7641626498740624921
+      Mobile - DOOM II RPG - Monsters - Cacodemons_60: -5696028150717368627
+      Mobile - DOOM II RPG - Monsters - Cacodemons_61: -4909324052425751597
+      Mobile - DOOM II RPG - Monsters - Cacodemons_62: -6656579131719241818
+      Mobile - DOOM II RPG - Monsters - Cacodemons_63: 1907682154035960179
+      Mobile - DOOM II RPG - Monsters - Cacodemons_64: -2709917891220766496
+      Mobile - DOOM II RPG - Monsters - Cacodemons_65: -942627774509131008
+      Mobile - DOOM II RPG - Monsters - Cacodemons_66: 5755394081384274442
+      Mobile - DOOM II RPG - Monsters - Cacodemons_67: -7354314723879093590
+      Mobile - DOOM II RPG - Monsters - Cacodemons_68: 9061894772859396736
+      Mobile - DOOM II RPG - Monsters - Cacodemons_69: 129095204192630691
+      Mobile - DOOM II RPG - Monsters - Cacodemons_7: -7444817206732539957
+      Mobile - DOOM II RPG - Monsters - Cacodemons_70: 6530823920907373062
+      Mobile - DOOM II RPG - Monsters - Cacodemons_71: -2733415637810875487
+      Mobile - DOOM II RPG - Monsters - Cacodemons_72: -2405982385878320532
+      Mobile - DOOM II RPG - Monsters - Cacodemons_73: -555577632294525295
+      Mobile - DOOM II RPG - Monsters - Cacodemons_74: -6860398406335498527
+      Mobile - DOOM II RPG - Monsters - Cacodemons_75: 1684066917682205488
+      Mobile - DOOM II RPG - Monsters - Cacodemons_76: 4459677231866913144
+      Mobile - DOOM II RPG - Monsters - Cacodemons_77: 8202389918620373185
+      Mobile - DOOM II RPG - Monsters - Cacodemons_78: 2590337204167593841
+      Mobile - DOOM II RPG - Monsters - Cacodemons_79: 4838876172525433181
+      Mobile - DOOM II RPG - Monsters - Cacodemons_8: 3262022316957014
+      Mobile - DOOM II RPG - Monsters - Cacodemons_80: -2375067575963071705
+      Mobile - DOOM II RPG - Monsters - Cacodemons_81: -1182121257231171828
+      Mobile - DOOM II RPG - Monsters - Cacodemons_82: -6239970148933707874
+      Mobile - DOOM II RPG - Monsters - Cacodemons_83: -7137912200111916210
+      Mobile - DOOM II RPG - Monsters - Cacodemons_84: -4341406821529398762
+      Mobile - DOOM II RPG - Monsters - Cacodemons_85: -8911698260603551295
+      Mobile - DOOM II RPG - Monsters - Cacodemons_86: -2084839365080869830
+      Mobile - DOOM II RPG - Monsters - Cacodemons_87: 1184706142970008923
+      Mobile - DOOM II RPG - Monsters - Cacodemons_88: 2611358715111319640
+      Mobile - DOOM II RPG - Monsters - Cacodemons_89: 6894779692250900405
+      Mobile - DOOM II RPG - Monsters - Cacodemons_9: 44546478362012002
+      Mobile - DOOM II RPG - Monsters - Cacodemons_90: 4831718796985161655
+      Mobile - DOOM II RPG - Monsters - Cacodemons_91: -5496692419127390212
+      Mobile - DOOM II RPG - Monsters - Cacodemons_92: 6729966851208386459
+      Mobile - DOOM II RPG - Monsters - Cacodemons_93: 5094083955849403110
+      Mobile - DOOM II RPG - Monsters - Cacodemons_94: -2977725440286974416
+      Mobile - DOOM II RPG - Monsters - Cacodemons_95: 1929925680377232039
+      Mobile - DOOM II RPG - Monsters - Cacodemons_96: -2506609184479982366
+      Mobile - DOOM II RPG - Monsters - Cacodemons_97: 8352037348116557674
+      Mobile - DOOM II RPG - Monsters - Cacodemons_98: 8119978552712774357
+      Mobile - DOOM II RPG - Monsters - Cacodemons_99: -8254502149114951866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
