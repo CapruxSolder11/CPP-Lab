@@ -6,6 +6,7 @@ public class TurretEnemy : BaseEnemy
     private float timeSinceLastShot = 0f;
 
     Shoot shoot;
+    private bool range = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public override void Start()
@@ -30,11 +31,19 @@ public class TurretEnemy : BaseEnemy
 
         if (stateInfo.IsName("Idle"))
         {
-            if (Time.time >= timeSinceLastShot + fireRate)
+            if (Time.time >= timeSinceLastShot + fireRate && range)
             {
                 anim.SetTrigger("Fire");
                 //timeSinceLastShot = Time.time;
             }
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            range = true;
         }
     }
 }
