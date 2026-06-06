@@ -217,8 +217,8 @@ public class PlayerController : MonoBehaviour
 
         if (collision.CompareTag("DeathTrigger"))
         {
-            anim.SetTrigger("DeathTrigger");
-            
+            //anim.SetTrigger("DeathTrigger");
+            GameManager.Instance.lives -= 1;
         }
     }
 
