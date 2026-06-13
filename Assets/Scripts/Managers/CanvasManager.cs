@@ -53,9 +53,15 @@ public class CanvasManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.P))
         {
             if (pauseMenu.activeSelf)
+            {
                 SetMenu(null, pauseMenu);
+                Time.timeScale = 1f;
+            }
             else
+            {
                 SetMenu(pauseMenu, null);
+                Time.timeScale = 0f;
+            }
         }
     }
 
@@ -72,10 +78,10 @@ public class CanvasManager : MonoBehaviour
 
     void QuitGame()
     {
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
-        #else
+#else
         Application.Quit();
-        #endif
+#endif
     }
 }
