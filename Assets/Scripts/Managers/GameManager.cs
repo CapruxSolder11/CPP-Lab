@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     #region Singleton Pattern
     private static GameManager _instance;
     public static GameManager Instance => _instance;
+    public GameObject audio;
 
     void Awake()
     {
@@ -107,6 +108,7 @@ public class GameManager : MonoBehaviour
     private void GameOver()
     {
         Debug.Log("Game Over");
+        Destroy(audio);
         SceneManager.LoadScene("GameOver");
     }
 

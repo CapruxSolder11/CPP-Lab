@@ -6,6 +6,9 @@ TagManager:
   tags:
   - DeathTrigger
   - FireTrigger
+  - Ammo
+  - PlayerBullet
+  - EnemyFire
   layers:
   - Default
   - TransparentFX

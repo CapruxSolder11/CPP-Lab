@@ -18,8 +18,8 @@ public class PlayerController : MonoBehaviour
     [Header("Powerup Settings")]
     [SerializeField] private float jumpForcePowerup = 60f;
     [SerializeField] private float initalPowerupDuration = 5f;
-
-
+    [SerializeField]
+    private AudioSource deathSound;
     #endregion
 
     #region State Variables
@@ -204,31 +204,14 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Squish") && rb.linearVelocityY < 0)
-        {
-            BaseEnemy enemy = collision.GetComponentInParent<BaseEnemy>();
-            if (enemy != null)
-            {
-                enemy.TakeDamage(0, DamageType.JumpedOn);
-                rb.linearVelocityY = 0;
-                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            }
-        }
+       
 
         if (collision.CompareTag("DeathTrigger"))
         {
-            //anim.SetTrigger("DeathTrigger");
+            deathSound.Play();
             GameManager.Instance.lives -= 1;
         }
     }
 
-    //private void OnTriggerExit2D(Collider2D collision)
-    //{
-    //    Debug.Log("PlayerController: OnTriggerExit2D called with collider " + collision.name);
-    //}
-
-    //private void OnTriggerStay2D(Collider2D collision)
-    //{
-    //    Debug.Log("PlayerController: OnTriggerStay2D called with collider " + collision.name);
-    //}
+  
 }

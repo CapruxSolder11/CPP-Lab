@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class TurretEnemy : BaseEnemy
@@ -7,6 +8,8 @@ public class TurretEnemy : BaseEnemy
 
     Shoot shoot;
     private bool range = false;
+
+    public AudioSource deathSound;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public override void Start()
@@ -45,5 +48,17 @@ public class TurretEnemy : BaseEnemy
         {
             range = true;
         }
+
+        if(other.CompareTag("Ammo"))
+        {
+            StartCoroutine(Death());
+        }
+    }
+
+    private IEnumerator Death()
+    {
+        deathSound.Play();
+        yield return new WaitForSeconds(1f);
+        Destroy(gameObject);
     }
 }
